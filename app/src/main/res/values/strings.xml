@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">SaasyApp</string>
+    <string name="my_name">Akhsa Lavril Kusuma</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="previous">Back</string>
+    <string name="start">Start</string>
+    <string name="cd_home">Home</string>
+    <string name="cd_daily_activity">Daily Activity</string>
+    <string name="cd_gallery">Gallery</string>
+    <string name="cd_music">Music</string>
+    <string name="cd_profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="music">Music</string>
+    <string name="profile">Profile</string>
+    <string name="greetings">Hai! Selamat datang :3</string>
+    <string name="description">Hai, Namaku Akhsa Lavril Kusuma. Saya sekarang menginjak usia 22 tahun, Saya berasal dari Wonogiri, Jawa Tengah. Saya berkuliah di UNIKOM saat ini semester 5. Kamu dapat memahami lebih lanjut tentangku di apps ini. Enjoy!</string>
+    <string name="hi">Hi!</string>
+    <string name="welcome">Welcome to</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name_desc">Nama saya Akhsa Lavril Kusuma biasa di panggil Saa, karena itu adalah nickname yang saya gunakan dalam setiap game yang saya mainkan.</string>
+    <string name="born_desc">Saya lahir di Klaten pada tahun 2002 pada bulan April</string>
+    <string name="job_desc">Saya sekarang hanya berfokus ke kuliah dengan sedikit sampingan mengerjakan jokian game.</string>
+    <string name="college_desc">Saya berkuliah di UNIKOM dan saat ini saya semester 5.</string>
+    <string name="favorite_drink">Minuman</string>
+    <string name="favorite_food">Makanan</string>
+    <string name="hobby">Hobbi</string>
+    <string name="interest">Interest</string>
+    <string name="goal">Goals</string>
+    <string name="my_hobbies">Hobbi</string>
+    <string name="my_foods">Makanan Favorit</string>
+    <string name="my_drinks">Minuman Favorit</string>
+    <string name="my_interest">Ketertarikan</string>
+    <string name="my_goals">Cita-cita</string>
+    <string name="username">saa_lav</string>
+    <string name="my_friend">My\nFriends</string>
+    <string name="genre">G\nE\nN\nR\nE\nS</string>
+    <string name="contact_me">Contact</string>
+    <string name="find_me">Find Me</string>
+    <string name="about_app">About App</string>
+    <string name="nim_class">10121273 | IF-7</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="by">by</string>
+    <string name="NIM">10121273</string>
+    <string name="class_name">IF-7</string>
+    <string name="by_me">By</string>
+    <string name="welcome_to_my_self_app">Welcome\nto\nMy Self Apps</string>
+    <string name="wanna_know_me">This app will bring you closer to me</string>
+    <string name="be_prepared">Be prepared\nand\nenjoy the experience</string>
+
+    <string-array name="music_video_title">
+        <item>Music</item>
+        <item>Video</item>
+    </string-array>
+</resources>
